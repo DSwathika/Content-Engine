@@ -19,7 +19,7 @@ This project implements the following key components:
 
 - Clone the repository
 
-        git clone https://github.com/yourusername/content-engine.git
+        git clone (https://github.com/DSwathika/Content-Engine)
 
         cd content-engine
 
