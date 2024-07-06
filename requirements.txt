@@ -1,0 +1,9 @@
+streamlit==1.21.0
+llama-index==0.5.0
+langchain==0.12.0
+transformers==4.28.0
+PyPDF2==3.0.0
+chroma==0.3.0
+huggingface-hub==0.14.1
+torch==2.0.0
+CTransformers==0.2.1
